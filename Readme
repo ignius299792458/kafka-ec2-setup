@@ -1,1 +1,11 @@
+- Installing Java and Kafka
 
+- Configuring the Kafka server
+
+- Setting up systemd services
+
+- Creating a test topic
+
+- Basic producer and consumer code examples
+
+- Commands for monitoring and verification
